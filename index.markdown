@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+heading: 'What an amazing day'
+subheading: 'Head over to my blog below'
+banner: 'banner.jpg'
 ---
