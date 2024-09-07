@@ -20,13 +20,15 @@
 
 title: Rishi's Bay
 email: rishi38199@gmail.com
+author: Rishi Kashyap
 description: >- # this means to ignore newlines until "baseurl:"
   Hey There! This website talks about me and my thoughts listed
   in my blog. Feel free to drop me a note if you have ideas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+copyright: "Unpublished Work (c) 2024-{currentYear} <br>Linkedin:<a href='https://www.linkedin.com/in/rishi-kashyap-5ab620185/'>
+{author}</a>"
 
 # Build settings
 theme: jekyll-theme-yat
