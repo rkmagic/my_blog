@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-heading: 'Reflections of the Past'
+heading: 'Reflections'
 subheading: 'Explore my thoughts below'
-banner: 'banner-min.jpg'
+banner: 'banner-4-min.jpg'
 ---

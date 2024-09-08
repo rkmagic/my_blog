@@ -27,7 +27,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-copyright: "(c) 2024-{currentYear} {author} | Image credits: Image by <a href='https://www.freepik.com/free-photo/beautiful-fern-leaves-black-background_2518451.htm#page=2&query=dark%20wallpapers%20for%20laptop&position=4&from_view=keyword&track=ais_hybrid&uuid=6b161a5a-4160-404d-a7f9-9ef89f7265b0'>Freepik</a><br>Linkedin:<a href='https://www.linkedin.com/in/rishi-kashyap-5ab620185/'>
+copyright: "(c) 2024-{currentYear} {author} | Photo by <a href='https://unsplash.com/photos/a-black-and-white-photo-of-the-ocean-LRVVqOFNbfI'>Felix Hanspach </a> on <a href='https://unsplash.com/'>Unsplash</a>
+<br>Linkedin:<a href='https://www.linkedin.com/in/rishi-kashyap-5ab620185/'>
 {author}</a>"
 
 # Build settings
