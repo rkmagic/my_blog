@@ -1,8 +1,67 @@
 ---
 layout: post
-title:  "IELTS Journey"
+title:  "My IELTS Experience"
 date:   2024-09-05 08:12:12 +0530
-categories: jekyll update
+categories: general
 ---
+![banner](/assets/images/ielts.jpeg){:style="align:left"}
 
-IELTS isn't as difficult as you think. All you need is some practice and hacks to solve the questions.
+The IELTS test is a common requirement for non-native English speakers who wish to study or work abroad in English speaking countries. I won't delve into the IELTS test <a href='https://ielts.org/take-a-test/test-types/ielts-academic-test'>format</a> in detail, you can find more information on their website. However, I would like to share some things from my experience of studying and getting a 8.5 band on this test.
+
+If you’re somebody who studied English at school and have been consistently using English throughout school, college and work, the IELTS is generally easy for you and you can take this test within 2-3 weeks of preparation. Especially, if you’re someone who watches a lot of Hollywood, TV shows, reads articles/blogs/posts on social media, IELTS is something you can crack with a decent amount of effort.
+
+Having said that, one can't take it for granted. You need to know the test pattern, the type of questions that are asked across each section - Listening, Speaking, Reading and Writing so that you don’t make silly mistakes in the test.
+
+## Breaking it down
+
+### Know the test and estimate your preparation
+
+After going through the test pattern and commonly asked questions, I estimated the amount of preparation that I would need. Taking a mock test helped. There are a bunch of free tests provided by IELTS and British council. Once again, if you're a intermediate user of English, you wouldn’t need more than 2-3 weeks. If you’re somebody who knows English but still isn’t well versed with grammar and you’re too comfortable with colloquial English, maybe you’ll need 4-5 weeks.
+
+### Book the test
+
+Booking the test a few weeks/months before preparation is important for any test. It gets you into a cadence where you put in the hours to prepare. Otherwise, you’ll just get lazy, wasting time and start preparing when the test is near. This test is pretty expensive (around $200 or Rs.17000) so unless you’re from the affluent class with money to waste, you woudn't want to leave this to chance.
+
+
+### How much score do you need?
+
+Most B-schools or engineering universities usually ask for a 7.0/7.5+ <a href='https://ielts.org/organisations/ielts-for-organisations/ielts-scoring-in-detail'> band score </a> with some top schools asking for an 8+ band. 
+
+There are four sections in this test - Listening, Reading, Writing and Speaking. All of them are marked out of 9 and they average the score and round it off in increments of 0.5, so if you got 8,8,7.5,7 your score will be 7.5 (for more - <a href="https://ieltsliz.com/ielts-band-scores/">https://ieltsliz.com/ielts-band-scores/</a>)
+
+### Breaking down the different sections
+
+I'm someone who doesn't write much so I was pretty sure my grammar and lexical accuracy was not the best. Therefore, I strategized to cover for this using the other sections.
+
+#### Listening & Reading: 
+
+These are relatively easier sections compared to writing and listening. A 9 band score is very much possible. This will boost your average and even if you take a hit in writing and speaking, you can get a 8+ band. 
+
+For Listening you would mainly need focus and the ability to understand UK/US accents. I practiced this using the free tests. I wouldn’t really recommend buying a course for this but if you want to practice more questions you can. Usually these paid courses market themselves as affordable courses but have too many mistakes in their answers.
+
+As I listened to a pre-recorded speech, I would start preempting the answers and filling up the responses. 60-70% of the time you would be right and for the rest you would need to change the answers. They give a few seconds to read the questions which helps to create a mental mapping of keywords that you can pay attention to in the recording.
+
+For Reading - if you’re someone who is preparing for GRE/GMAT, you wouldn’t need too much practice. I just gave a few mocks to understand the question types. Skimming through the text and knowing where to find the answer is sufficient.
+
+Be careful about this question type though - TRUE/FALSE/NOT GIVEN. It’s very easy to make mistakes and get confused between FALSE and NOT GIVEN. 
+
+I got a 9 and 8.5 for listening and reading.
+
+#### Writing & Speaking:
+
+Writing - This will probably be the hardest part of IELTS if you aren’t someone who regularly writes long form content like me. You will end up typing your conversational words which may not be graded well. Look up the grading requirements for a <a href='https://ielts.idp.com/results/scores/writing'> 8+ score </a> and go through a few sample tests. Personally, I didn’t spend much time on this and ended up getting a 7.5. Practice is the only way to improve writing and you can’t master this in 2-3 weeks. I just went through sample answers and the grading criteria which helped especially in Task 2.
+
+
+Speaking - This is an interesting section. Mostly they are looking for coherence, your ability to formulate statements without taking too much time and your strength in vocabulary. There is a section where you’ll be given a cue card with a topic and you’ll have to speak for more than 1-2 mins. You’ll get a bunch of cue cards online for practice. If you don’t know anything, just make up stuff. They aren’t checking for the validity of what you’re saying but how well you can formulate statements. Don’t go blank or use filler words like um, ahh for too long. Just keep speaking what comes to your mind with the right grammar. Mostly the questions are about topics that you are well aware of like sports, hobbies, work, studies etc.
+
+I made the mistake of speaking too fast on the cue card section and didn’t have much to say. I also didn't pronounce few words clearly (due to my speed) which the examiner may not have understood. I ended up with a 8 on this.
+
+### Conclusion
+
+Overall, knowing the test pattern, question types and the knack for answering should take you across the finish line. I wouldn't reccomend spending too much on paid courses. Free resources online should be enough. Solving crosswords or playing word games can also boost your english language skills. You’ll have to anyway spend a lot on other things if you’re planning to study abroad.
+
+Some resources that helped me:
+- <a href='https://www.youtube.com/@Ieltsadvantage'> IELTS Advantage Youtube Channel </a>
+- <a href='https://ieltsliz.com/'>https://ieltsliz.com/</a> 
+- <a href='https://takeielts.britishcouncil.org/take-ielts/prepare'> British Council Website </a>
+
