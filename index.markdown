@@ -7,3 +7,4 @@ heading: 'Reflections'
 subheading: 'Explore my thoughts below'
 banner: 'banner-4-min.jpg'
 ---
+
