@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Product Management - Experience so far"
+date:   2024-09-29 21:12:12 +0530
+categories: product_management
+---
+![banner](/assets/images/pm.jpg){:style="align:left"}
+
+2024 so far has been a rollercoaster ride with my job role pivoting towards product management. I never really thought that I would take up this role when I first started my career. It was only when I got exposed to this job function that my interests started to align with product management. Half of the job is around people management/soft skills, and the rest boils down to your skills in terms of creativity, analytical thinking, problem solving, and execution.
+
+Given the startup nature of the products that I was working on, roadmaps change at a weekly level, and it required me to have breakneck execution speed and prioritization where getting things done is paramount. I am glad that I could exercise these skills, given that not many companies, especially the big tech ones like Microsoft or Amazon, operate with this style. They do their planning probably weeks or months in advance before beginning their development cycles.
+
+Stakeholder management can make or break a product manager in my opinion if you're not the only product manager on the team. That's one of the core tenets on which a PM role was originally designed: where they take the headache away from engineering and face stakeholders and customers. In a startup setup, this becomes more evident where resources are limited and prioritization is brutal. Thankfully, my experience with business operations and working directly with clients has helped me hone some of this skill. 
+
+While I've challenged some of these traits, I do have gaps in my inability to spend time on product strategy and wireframes where a few iterations are necessary to get things right. I mostly took inspiration from other apps. My creative abilities have not been fully tested, and that's something that I definitely want to work on. Going beyond what's possible and the ability to get crazy in creating novel solutions is probably my most ambitious skill to chase.
+
+One thing's for sure: you cannot read or take a course and become a product manager. It's more than creating wireframes and writing product requirements documents.  It's a holistic role with a mixture of soft and technical skills that can only be enhanced with real-world experience.
+
+Photo by <a href="https://unsplash.com/@jexo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jexo</a> on <a href="https://unsplash.com/photos/black-laptop-computer-beside-books-fJ6r_mkHrsw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+
+

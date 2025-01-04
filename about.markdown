@@ -18,4 +18,6 @@ Apart from this I love football (not the NFL type). I folllow Manchester United 
 
 I'm happy to connect @  <a href='mailto:rishi38199@@gmail.com'> my e-mail </a>
 
+<u>NOTE</u>: The views and opinions expressed on this blog are solely my own and are for informational purposes only. They do not constitute professional advice. Readers should not rely on this content as a substitute for professional guidance in any area, whether personal, financial, health, or professional. I am sharing my personal experiences and perspectives, which may change over time.
+
 

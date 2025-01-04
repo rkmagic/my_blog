@@ -7,8 +7,11 @@ categories: welcome
 
 Hey There! Thanks for visiting my blog. 
 
-I started this blog after realizing that I needed to improve my writing skills. A personal portfolio+blog website is also one of the best ways to reflect on yourself time to time and see how far you've come. This blog will now become a place to pen down my thoughts.
+I started this blog after realizing that I needed to improve my writing skills. A personal portfolio+blog website is also one of the best ways to reflect on yourself time to time and see how far you've come. This blog will now become a place to pen down my thoughts. 
 
 This website was setup using Jekyll and Vercel. It's so easy these days to create and deploy a website and this was fun to setup :). I personally didn't want to use sites like Wordpress/Wix since here you can get more control and learn some stuff about creating websites. 
 
 Happy Reading!
+
+
+NOTE: The views and opinions expressed on this blog are solely my own and are for informational and entertainment purposes only. They do not constitute professional advice. Readers should not rely on this content as a substitute for professional guidance in any area, whether personal, financial, health, or professional. I am sharing my personal experiences and perspectives, which may change over time.

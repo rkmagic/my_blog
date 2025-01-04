@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "AI - My Thoughts"
+date:   2024-11-18 16:12:12 +0530
+categories: ai
+---
+![banner](/assets/images/ai.jpg){:style="align:left"}
+
+Ever since ChatGPT—OpenAI's premier product burst onto the scene around 2022, the world has changed rapidly, with large language models opening up new possibilities every day. Adding to this, other multimodal models like text-to-video, speech-to-text are seeing massive growth over the last few months - Sora, Dall-E, Stable Diffusion, Veo... the list keeps growing. ChatGPT has had the most marketing, of course, and this is evident with their user base, but companies like Anthropic, Google, and Meta have caught up with their frontier models. I personally prefer Anthropic's Claude Sonnet-3.5 over other models and use Perplexity (not exactly a model but a pretty good product), but that's a blog for another day.
+
+While this might look like a 3-year journey, AI research goes back decades with scientists taking inspiration from our brain's neurons and replicating it by creating a "neural network" - a core foundation of all LLMs along with the multitude of other things like deep learning, complex algorithms, and novel approaches like the one proposed in this landmark paper by Google scientists — <a href="https://arxiv.org/abs/1706.03762"> Attention is all you need</a>.
+
+We are just getting started on this, and the world is moving at a pace like never before with AI. For the average person like you and me, it's all about our jobs at the end of the day. Will it change? How will it change? Will my role die? If you're working in the tech industry and not thinking about any of these questions, you better start now. 
+
+The way we work is going to change. It's going to affect a diverse set of roles in tech, right from engineering, design, operations, product, legal, business, etc. Maybe business execs will be the last in the line because, you know, they call the shots, but the rest are in for a crazy ride in the coming years. 
+
+Automation can be a thriving business sector on its own, with a lot of companies already building solutions to automate and improve processes or systems using AI. This would mean the tools that we use will evolve, and some of our skills could be of no use in the future. Take SQL. Data analysts, for example, write SQL queries to extract insights. There will be a day in the near future where AI can fully take over this process, and product managers like me could just enter a search query. "Why is my revenue flat in the last 2 weeks?" and AI could spit out insights within a few minutes. There might be companies already providing solutions for this.
+
+But there's hope. New roles will be created, and some existing roles will thrive. Prompt engineering, compliance, ethical usage, infrastructure, and sustainability, to name a few, will add new roles. Functions like data science, AI research, and backend engineering will boom. Our current roles, including non-engineering, will evolve too, and the best thing one can do right now is to just start thinking about AI and its implications. Like folks on the internet say, AI will replace those who don't know how to use AI. There are a plethora of courses and material out there. Doing some courses, listening to thinkers like Ilya Sutskever, Andrew NG, and Andrej Karpathy, and following the latest advancements is a great start to planning your future with this disruptive tech making waves. 
+
+This might sound like doomsday talk, but I believe the reasons why AI hasn't significantly affected our job roles yet are primarily because of cost, security, and compliance aspects. AI infrastructure, for example, is quite expensive, but companies will look to resolve these bottlenecks in due course. Until then, it's up to us to learn, upskill, and be prepared.
+
+Photo by <a href="https://unsplash.com/@solenfeyissa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Solen Feyissa</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-person-touching-a-cell-phone-GZyELVkOmi0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
+
+
