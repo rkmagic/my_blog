@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "LLMs - your smart companion"
+date:   2024-11-30 18:00:00 +0530
+categories: ai
+---
+![banner](/assets/images/llm.jpg){:style="align:left"}
+
+Over the past 1.5 years, I've been trying out many of the LLM products out there for researching a topic, curbing my curiosity, or solving something related to work. I've explored ChatGPT, Claude, Gemini, and Perplexity (which by default uses Meta's Llama). I must say, students of all age groups in the LLM era are really lucky. They can save so many hours with these AI knowledge banks providing summarized responses. Then again, people in the 80s would say the same to us Gen Z folks about the internet.
+
+Nevertheless, here are some observations that I've made so far after testing and bullying these LLMs for various use cases.
+
+<u>Coding/Programming</u> —This is every LLM's strength (thanks to sites like Stack Overflow), but Claude is simply unmatched here. The precision with respect to the output, code debugging, and the ability to tweak the code based on feedback is brilliant. Adding to that, Claude outputs the code in an "artifact," which makes it user-friendly to read and iterate on the code. Although the artifact is overkill at times, where even a simple copy or text output is thrown into an artifact, it's still quite useful for coding. Hands down, the best LLM so far for programming. Great stuff, Anthropic! Although the solutions may not work at times, that's where you as a human come in.
+
+On another note: There's this huge debate about AI replacing engineers and product managers, with both sides defending each other. I would say it can go both ways. Product managers like me can now build prototypes and possibly push production-level code in the future and iterate on products without relying on engineering. Engineers can semi-automate programming and take over PM roles by executing many of the tasks using AI, like building roadmaps, writing PRDs, market research, etc. In any case, personally, I believe that irrespective of the function, soft skills and EQ will matter the most, and whoever excels at that won't have to worry about their jobs getting demolished by AI.
+
+Back to LLMs.
+
+<u>Research</u> —This is probably the single most beneficial thing that came out of LLMs. The amount of man-hours saved by avoiding the pain of opening multiple links on Google search only to find nonsense is just a lifesaver. I've shifted from Google to Perplexity for all things research for the last few months. No annoying sponsored links too (For now). I'm just going to leave this quote from Aravind Srinivas, CEO of Perplexity. "Perplexity's search queries on average have more keywords compared to Google's search queries.".
+
+I use Google only for finding a specific link, like a government website or a specific restaurant, given the strong indexing and SEO capability that search engines thrive on. Companies like Perplexity and Google's Gemini are already solving this. I can find restaurant location links on these tools, but there's still an error rate. 
+
+Talking about some negative thoughts.
+
+<u>Quality of output</u> — this is an interesting thing about LLMs. Whatever LLMs give as an output is mostly from data that it has seen from the internet. It's really smart at summarizing the information within a fixed token/word limit. Therefore, it works very well for generic use cases like resume review, writing an email, researching a topic, etc. However, when it comes to specific use cases or creative writing like providing a bedtime story or a mindfulness session, the output is still good, except if you need variations, it takes some prompting. I've personally struggled to generate variety in output for niche cases and had to put a lot of effort into prompting. Still hasn't solved the problem completely. One way is to use function calling and connect external APIs or RAGs. It isn't the LLM's fault. It simply hasn't seen enough variety in training data for some of the use cases.
+
+Another problem is long-form content. Think of anything more than 1500-2000 words. LLMs struggle at this, given they can't hold so much context and maintain consistency while generating the text. There are some workarounds for this, like a chain of prompts, but there's still a long way to go.
+
+Maybe AGI will solve these two issues.
+
+<u>User Experience</u> — Seriously, all these AI companies need to put some effort here. Barring Perplexity, maybe the rest can put more thought into their UI. You can just go to the reviews section of these apps on the Play Store if you think I'm lying. A simple function like searching your previous queries doesn't work well on Claude, at least. The web apps that I use heavily are buggy with respect to the outputs and navigation. This is probably the easiest thing to solve, and maybe they don't see the ROI yet. Nevertheless, hope they improve it.
+
+Lastly, not a complaint but an improvement that I am really interested to see. Model personalization. If the models can learn about me, my interests, and my style over time as I query, it will exponentially increase the relevance of outputs. Today, it's simply not feasible to retrain models for each user and may require other techniques, but it's something to look forward to in the future.
+
+Overall, LLMs are a disruptive technology that can make your life better if you know how to use them. Everyone who uses or intends to use LLMs should learn prompting. Use the tech. Automate. Save time. Repurpose for other activities like improving your communication skills, doing a hobby, or socializing. My cringe quote of the day: The more the AI, the greater the need to become more human. 
+
+Photo by <a href="https://unsplash.com/@solenfeyissa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Solen Feyissa</a> on <a href="https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-hWSNT_Pp4x4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
+
