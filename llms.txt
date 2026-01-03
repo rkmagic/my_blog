@@ -1,0 +1,46 @@
+# Rishi's Bay
+
+> A personal blog documenting thoughts, experiences, and learnings on technology, product management, AI, and MBA journey. This website serves as a platform to improve writing skills while sharing insights and reflections.
+
+## About the Author
+
+- **Name:** Rishi Kashyap
+- **Email:** rishi38199@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/rishikashyap01/
+
+## Key Pages
+
+- [Home](https://kolli.vercel.app/): Welcome page with blog reflections
+- [About](https://kolli.vercel.app/about.html): Information about the author and blog purpose
+
+## Blog Categories
+
+- **AI:** Thoughts and insights on artificial intelligence, large language models, and AI technology
+- **Product Management:** Experiences and learnings in product management
+- **MBA:** Journey and guidance on MBA application process
+- **General:** Miscellaneous topics including IELTS preparation and other experiences
+- **Welcome:** Introduction to the blog
+
+## Resources
+
+- **RSS Feed:** https://kolli.vercel.app/feed.xml
+- **Sitemap:** https://kolli.vercel.app/sitemap.xml
+
+## Blog Posts
+
+Recent posts covering topics on:
+- AI and Large Language Models (LLMs)
+- Product Management experiences
+- MBA application process and guidance
+- IELTS test preparation
+- Technology and career development
+
+## Content Focus
+
+This blog covers:
+- Product management insights and experiences
+- AI technology trends and observations
+- MBA application process and business education
+- Personal development and career growth
+- Technology, UX, and product thinking
+

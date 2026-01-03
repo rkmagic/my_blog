@@ -1,0 +1,72 @@
+{%- comment -%}
+Enhanced JSON-LD structured data for Blog and Author schemas
+This complements the jekyll-seo-tag plugin's existing JSON-LD output
+{%- endcomment -%}
+
+{%- if page.layout == 'home' or page.layout == nil -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "{{ site.title }}",
+  "url": "{{ site.url }}{{ site.baseurl }}",
+  "description": "{{ site.description | strip_newlines | strip }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author }}",
+    "email": "{{ site.email }}",
+    "sameAs": [
+      "https://www.linkedin.com/in/rishikashyap01/"
+    ]
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ site.author }}",
+    "email": "{{ site.email }}"
+  },
+  "inLanguage": "{{ site.lang | default: 'en' }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.url }}{{ site.baseurl }}/?s={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{%- endif -%}
+
+{%- if page.layout == 'post' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ page.excerpt | default: page.description | strip_html | strip_newlines | truncate: 160 | strip }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author }}",
+    "email": "{{ site.email }}",
+    "sameAs": [
+      "https://www.linkedin.com/in/rishikashyap01/"
+    ]
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ site.author }}",
+    "email": "{{ site.email }}"
+  },
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+  },
+  "url": "{{ site.url }}{{ site.baseurl }}{{ page.url }}",
+  "inLanguage": "{{ site.lang | default: 'en' }}",
+  "articleSection": "{{ page.categories | first | default: 'General' }}"
+}
+</script>
+{%- endif -%}
+
