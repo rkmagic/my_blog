@@ -4,7 +4,7 @@ title:  "Admit to an MBA program - Why? How? What?"
 date:   2025-03-15 18:00:00 +0530
 categories: mba
 ---
-![banner](/assets/images/graduation.jpg){:style="align:left"}
+![Graduation banner](/assets/images/graduation.jpg){:style="align:left"}
 
 I decided to pursue my MBA around the end of 2023. **Why?** I felt I needed a change in my life and wanted exposure to new experiences and a new environment. I had lived in my home city my entire life. It was also a chance for me to learn new professional and personal skills, learn about myself and my capabilities, and connect with professionals from across the world to get new ideas and inspiration.
 

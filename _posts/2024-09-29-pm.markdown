@@ -3,8 +3,9 @@ layout: post
 title:  "Product Management - Experience so far"
 date:   2024-09-29 21:12:12 +0530
 categories: product
+excerpt: "What I understand about product management"
 ---
-![banner](/assets/images/pm.jpg){:style="align:left"}
+![Product management banner](/assets/images/pm.jpg){:style="align:left"}
 
 2024 so far has been a rollercoaster ride with my job role pivoting towards product management. I never really thought that I would take up this role when I first started my career. It was only when I got exposed to this job function that my interests started to align with product management. Half of the job is around people management/soft skills, and the rest boils down to your skills in terms of creativity, analytical thinking, problem solving, and execution.
 

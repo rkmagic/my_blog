@@ -3,12 +3,13 @@ layout: post
 title:  "AI - My Thoughts"
 date:   2024-11-18 16:12:12 +0530
 categories: ai
+excerpt: "Where are we heading with AI?"
 ---
-![banner](/assets/images/ai.jpg){:style="align:left"}
+![Artificial intelligence banner](/assets/images/ai.jpg){:style="align:left"}
 
 Ever since ChatGPT—OpenAI's premier product burst onto the scene around 2022, the world has changed rapidly, with large language models opening up new possibilities every day. Adding to this, other multimodal models like text-to-video, speech-to-text are seeing massive growth over the last few months - Sora, Dall-E, Stable Diffusion, Veo... the list keeps growing. ChatGPT has had the most marketing, of course, and this is evident with their user base, but companies like Anthropic, Google, and Meta have caught up with their frontier models. I personally prefer Anthropic's Claude Sonnet-3.5 over other models and use Perplexity (not exactly a model but a pretty good product), but that's a blog for another day.
 
-While this might look like a 3-year journey, AI research goes back decades with scientists taking inspiration from our brain's neurons and replicating it by creating a "neural network" - a core foundation of all LLMs along with the multitude of other things like deep learning, complex algorithms, and novel approaches like the one proposed in this landmark paper by Google scientists — <a href="https://arxiv.org/abs/1706.03762"> Attention is all you need</a>.
+While this might look like a 3-year journey, AI research goes back decades with scientists taking inspiration from our brain's neurons and replicating it by creating a "neural network" - a core foundation of all LLMs along with the multitude of other things like deep learning, complex algorithms, and novel approaches like the one proposed in this landmark paper by Google scientists - <a href="https://arxiv.org/abs/1706.03762"> Attention is all you need</a>.
 
 We are just getting started on this, and the world is moving at a pace like never before with AI. For the average person like you and me, it's all about our jobs at the end of the day. Will it change? How will it change? Will my role die? If you're working in the tech industry and not thinking about any of these questions, you better start now. 
 

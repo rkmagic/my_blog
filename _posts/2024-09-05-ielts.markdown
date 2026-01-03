@@ -3,8 +3,9 @@ layout: post
 title:  "My IELTS Experience"
 date:   2024-09-05 08:12:12 +0530
 categories: general
+excerpt: "My experience after taking the IELTS test"
 ---
-![banner](/assets/images/ielts.jpeg){:style="align:left"}
+![IELTS test preparation banner](/assets/images/ielts.jpeg){:style="align:left"}
 
 The IELTS test is a common requirement for non-native English speakers who wish to study or work abroad in English speaking countries. I won't delve into the IELTS test <a href='https://ielts.org/take-a-test/test-types/ielts-academic-test'>format</a> in detail, you can find more information on their website. However, I would like to share some things from my experience of studying and getting a 8.5 band on this test.
 

@@ -3,8 +3,9 @@ layout: post
 title:  "LLMs - your smart companion"
 date:   2024-11-30 18:00:00 +0530
 categories: ai
+excerpt: "A few thoughts on LLMs and their applications"
 ---
-![banner](/assets/images/llm.jpg){:style="align:left"}
+![Large language models banner](/assets/images/llm.jpg){:style="align:left"}
 
 Over the past 1.5 years, I've been trying out many of the LLM products out there for researching a topic, curbing my curiosity, or solving something related to work. I've explored ChatGPT, Claude, Gemini, and Perplexity (which by default uses Meta's Llama). I must say, students of all age groups in the LLM era are really lucky. They can save so many hours with these AI knowledge banks providing summarized responses. Then again, people in the 80s would say the same to us Gen Z folks about the internet.
 

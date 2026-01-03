@@ -25,7 +25,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hey There! This website talks about me and my thoughts listed
   in my blog. Feel free to drop me a note if you have ideas
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kolli.vercel.app/" # IMPORTANT: Set this to your actual domain (e.g., https://yourdomain.com) for proper canonical URLs and SEO
+# url: "https://yourdomain.com" # Uncomment and set your domain here
+
+# SEO Settings
+lang: en
+timezone: Asia/Kolkata
+twitter:
+  username: # Add your Twitter username (without @) for Twitter Card attribution
+# logo: "/assets/images/logo.png" # Optional: Add path to your site logo for better social sharing
+# image: "/assets/images/banner.webp" # Optional: Default Open Graph image for social sharing
 
 copyright: "(c) 2024-{currentYear} {author} | Photo by <a href='https://unsplash.com/photos/a-black-and-white-photo-of-the-ocean-LRVVqOFNbfI'>Felix Hanspach </a> on <a href='https://unsplash.com/'>Unsplash</a>
 <br>Linkedin:<a href='https://www.linkedin.com/in/rishi-kashyap-5ab620185/'>
@@ -35,6 +44,10 @@ copyright: "(c) 2024-{currentYear} {author} | Photo by <a href='https://unsplash
 theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
+# SEO Plugin Configuration (jekyll-seo-tag is included by the theme)
+# The plugin automatically generates meta tags, Open Graph, and Twitter Cards
 
 
 # Exclude from processing.

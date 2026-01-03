@@ -1,0 +1,14 @@
+# robots.txt for SEO
+# This file tells search engines which pages they can or can't access
+
+User-agent: *
+Allow: /
+
+# Disallow private/admin areas if you add them later
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location (update with your actual domain after deployment)
+# Example: Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: /sitemap.xml
+
