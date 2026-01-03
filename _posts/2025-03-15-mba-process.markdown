@@ -3,6 +3,7 @@ layout: post
 title:  "Admit to an MBA program - Why? How? What?"
 date:   2025-03-15 18:00:00 +0530
 categories: mba
+excerpt: "A few things that you need to be aware of before you start thinking about a masters program like a MBA"
 ---
 ![Graduation banner](/assets/images/graduation.jpg){:style="align:left"}
 
