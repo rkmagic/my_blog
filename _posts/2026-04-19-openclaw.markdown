@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "OpenClaw - Fad or the next bet?"
+date:   2026-04-19 20:50:00 +0530
+categories: ai
+---
+![banner](/assets/images/aiassistant.jpg){:style="align:left"}
+
+Last few weeks, I had a chance to try and play around with <a href="https://openclaw.ai/">OpenClaw</a>. The hype is crazy. Everybody seems to be making tutorials, vidoes and tweets about how amazing this is.
+
+The use cases seem powerful. Booking flights, making bets on polymarket, sending emails using files from your folder, remotely controlling your laptop from your phone, there are many. Basically an AI takes over your laptop and does what you say. It has its own memory, it can store files, it can send data, it has skills, it can browse your computer, pay on your behalf. But surely this is is safe. Right? 
+
+I was going through some of the settings as I set it up. Its quite daunting, the amount of access you need to give. I had attended a talk about openclaw security and there were a bunch of recommendations on the settings to make it safe for use. If you're experimenting and don't fully understand the security model, I highly commend isolation by using a VM.
+
+However, how many people would know all of this? Would they do the research? I believe this is a great tech demonstration of whats possible but I think the access needs to be fenced or staged. People who don't know what they are doing, can easily shoot themselves in the foot. When everyone is racing to be the next cool person who is using the latest trend in AI, there is some caution that needs to be exercised. 
+
+After taking all the security measures and carefully navigating your way through the setup, you start wondering, is the ROI even worth it? Maybe time will tell, if people will still be using OpenClaw. The concept however, is still powerful and there might be other inventions that can take inspiration. I think people would rather use a packaged and safe version of this, deployed by the bigger companies. Perplexity computer is a great example.
+
+Photo by <a href="https://unsplash.com/@santesson89?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andrea De Santis</a> on <a href="https://unsplash.com/photos/black-and-white-robot-toy-on-red-wooden-table-zwd435-ewb4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

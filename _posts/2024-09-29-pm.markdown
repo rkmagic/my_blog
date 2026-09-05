@@ -2,7 +2,7 @@
 layout: post
 title:  "Product Management - Experience so far"
 date:   2024-09-29 21:12:12 +0530
-categories: product
+categories: general
 excerpt: "What I understand about product management"
 ---
 ![Product management banner](/assets/images/pm.jpg){:style="align:left"}
