@@ -46,6 +46,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Only show About in the header. Categories/tags pages stay for post links.
+header_pages:
+  - about.markdown
+
 # SEO Plugin Configuration (jekyll-seo-tag is included by the theme)
 # The plugin automatically generates meta tags, Open Graph, and Twitter Cards
 
